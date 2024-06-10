@@ -201,6 +201,13 @@ form.sign-in-form {
   padding: 3rem 12% 2rem 17%;
 }
 
+  .content{
+    display: flex;
+    flex-direction: column;
+    margin-right: 180px;
+    margin-bottom: 20px;
+  }
+
 .panel .content {
   color: #fff;
   transition: transform 0.9s ease-in-out;
